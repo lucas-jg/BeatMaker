@@ -10,7 +10,7 @@ Creates a drum beat based on Machine Learning
 ## 머신러닝 스터디
 
 참여 인원에 따라 머신러닝 관련 책을 2-3권 구매하여 매주 1-2파트씩 공부하여 내용 공유 및 내용 정리하여 매주 토요일 오전까지 Git에 commit 진행\
-스터디 기간동안은 매주 만나 내용을 공유 하며, 실제 프로젝트 시작시에는 필요에 따라 오프라인 모임 진행
+**스터디 기간 동안은 매주 만나 내용을 공유** 하며, 실제 프로젝트 시작시에는 필요에 따라 오프라인 모임 진행
 
 내용 정리에 정해진 형식은 없지만 Git에서 보거나 외부에 노출되는 경우 Markdown으로 정리한 문서가 보기도 좋고 쓰기도 좋음 (이 문서도 Markdown)
 
@@ -19,16 +19,16 @@ Creates a drum beat based on Machine Learning
 
 ## 1차 프로젝트 (6월 말)
 
-- Beat 소리를 텍스트로 서로 변환하는 프로그램(Web || App) 개발  
+- Beat 소리를 사용가능한 데이터로 변환하는 프로그램(Web || App) 개발  
     - 참고 사이트 : [Splice](https://splice.com/sounds/beatmaker/wakaflocka)
-    - Beat <-> Text (Data)
-- Text(Data)로 변환된 비트를 교육시켜 결과물을 만드는 ML 프로젝트
+    - Beat <-> Data
+- 데이터로 변환된 비트를 교육시켜 결과물을 만드는 ML 프로젝트
     - 참고 블로그 : [기계 학습은 즐겁다 - Part 2](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-2-b35f3d327761)
     - 슈퍼마리오 레벨 디자인 참고
     - 기계 학습은 즐겁다 블로그는 1~8 파트로 작성되어 있음 모든 파트 다 읽어보면 아주 도움이 많이 되는 블로그
 
 ## 2차 프로젝트 (10월 말)
- - 오디오 파일(mp3, wav, mp4, m4a 등)을 읽어 비트를 Text(Data)로 변환하는 프로그램 개발
+ - 오디오 파일(mp3, wav, mp4, m4a 등)을 읽어 비트를 데이터로 변환하는 프로그램 개발
     - 음원 사이트(멜론, 네이버 뮤직, 벅스 등)를 통해 동일 장르 음악 교육
     - 오디오 파일에서 비트를 텍스트로 변환하는 작업
 - ML 프로젝트 리팩토링
