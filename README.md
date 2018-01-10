@@ -19,9 +19,11 @@ Creates a drum beat based on Machine Learning
 
 ## 1차 프로젝트 (4월 말)
 
-- Beat 소리를 사용가능한 데이터로 변환하는 프로그램(Web || App) 개발  
+- 임의로 정의한 데이터를 Beat 소리로 변환하는 프로그램(Web || App) 개발  
     - 참고 사이트 : [Splice](https://splice.com/sounds/beatmaker/wakaflocka)
     - Beat <-> Data
+    - 비트를 교육시키기 위해 Tensorflow에서 사용가능하며 패턴으로 인식하고 표현 할 수 있는 범위내  데이터를 임의의 규칙으로 생성
+    - 그렇게 생성된 데이터를 소리로 바꾸는 프로그램
 - 데이터로 변환된 비트를 교육시켜 결과물을 만드는 ML 프로젝트
     - 참고 블로그 : [기계 학습은 즐겁다 - Part 2](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-2-b35f3d327761)
     - 슈퍼마리오 레벨 디자인 참고
