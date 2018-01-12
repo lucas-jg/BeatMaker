@@ -14,19 +14,18 @@ Creates a drum beat based on Machine Learning
 
 내용 정리에 정해진 형식은 없지만 Git에서 보거나 외부에 노출되는 경우 Markdown으로 정리한 문서가 보기도 좋고 쓰기도 좋음 (이 문서도 Markdown)
 
-### 구매 도서
+**프로젝트 진행에 대한 일정은 아주 아주 러프하게 잡았음** \
+스터디를 하면서 프로젝트에 대한 일정은 언제든지 변경될 수 있음
 
+### 구매 도서
 - [골빈해커의 3분 딥러닝 텐서플로맛 - 김진중 지음 (한빛미디어)](http://www.yes24.com/24/goods/49853812?scode=032&OzSrank=1)
     - yes24 : 19,800원
 - [TensorFlow Machine Learning Cookbook - 닉 맥클루어 지음 (에이콘출판)](http://www.yes24.com/24/goods/45095421?scode=032&OzSrank=1)
     - yes24 : 32,400원
 - [텐서플로로 시작하는 딥러닝 - 나카이 에츠지 지음 (제이펍)](http://www.yes24.com/24/goods/43283117?scode=032&OzSrank=1) 
     - yes24 : 21,600원
+- 총 도서 구매 비용 : 73,800원
 
-
-
-**프로젝트 진행에 대한 일정은 아주 아주 러프하게 잡았음** \
-스터디를 하면서 프로젝트에 대한 일정은 언제든지 변경될 수 있음
 
 ## 1차 프로젝트 (4월 말)
 
