@@ -4,9 +4,9 @@ Supervised Learning에서 가장 기본적으로 사용되는 Linear Regression�
 
 - 선형 회귀는 선형 예측 함수를 사용해 회귀식을 모델링하며, 알려지지 않은 파라미터는 데이터로부터 추정한다. 이렇게 만들어진 회귀식을 선형 모델이라고 한다.
 
- ![img](https://github.com/yunseul-light/BeatMaker/blob/master/img/Linear%20Regressioin.jpg)
+ ![img](https://github.com/yunseul-light/BeatMaker/blob/master/img/Linear%20Regressioin.jpg) {.alin}
 
- 아주 쉽고 간단하게 설명하면 위에 보이는 이미지에서 파란색들 대표하는 빨간색 선을 찾아내는 것이 바로 Linear Regression(선형 회귀)이다.
+ *아주 쉽고 간단하게 설명하면 위에 보이는 이미지에서 파란색 점을 대표하는 빨간색 선을 찾아내는 것이 바로 Linear Regression(선형 회귀)이다.*
 
 ### Supervised Learning
 앞으로 우리가 개발해야하는 목표 또한 Supervised Learning을 기반으로한 프로젝트를 진행하기 때문에 또 다른 설명으로 개념을 한번 설명하고 넘어감.\
@@ -28,17 +28,8 @@ Supervised Learning에서 가장 기본적으로 사용되는 Linear Regression�
  단계 : 데이터 제공(훈련용 데이터) -> 선형 회귀 모델 생성 -> 생성된 선형 회귀 모델을 통해 값 예측
 ```
 1. 훈련용 데이터 제공
- 
- |X|Y|
- |:--:|:--:|
- | 1 | 2 |
- | 2 | 3 |
- | 3 | 5 |
- | 4 | 4 |
- | 5 | 6 |
- | 6 | 9 |
- - 위에 보이는 데이터를 제공하여 컴퓨터를 훈련시킴
- - 주어진 X에 대해 0~10까지의 Y 값을 훈련 데이터로 주어진다.
+ - 데이터를 제공하여 컴퓨터를 훈련시킴
+ - 주어진 X(0~5)에 대해 Y(0~8) 값을 훈련 데이터로 주어진다.
  - *그래프에서 파란점을 제공해 준다고 생각하면 됨*
 2. 주어진 훈련용 데이터에 대한 선영 회귀 분석 모델을 만듬.
  - 주어진 훈련용 데이터를 통해 선영 회귀 모델을 생성
