@@ -17,4 +17,6 @@
    -> 컴퓨터의 주요역할은 그 식에 포함된 파라미터를 최적화하는 것이다.
 
 1.1.2 신경망의 필요성
-   잠시 이거 표현방식을 생각해서 올리겠음 복잡미묘하네
+ ![img](https://github.com/yunseul-light/BeatMaker/blob/master/doc/jishoozzi/image/image1.jpeg)
+ ![img](https://github.com/yunseul-light/BeatMaker/blob/master/doc/jishoozzi/image/image2.jpeg)
+ ![img](https://github.com/yunseul-light/BeatMaker/blob/master/doc/jishoozzi/image/image3.jpeg)
